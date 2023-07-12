@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Olá! Sou o Rodrigo Ferreira 👋
+👨‍💻 Estudo Engenharia Informática no ISEC
+Tenho interesse na área de análise de dados
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ferreira-188a7326b/)
 <!--
 **Rodrrf/Rodrrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
