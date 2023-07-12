@@ -10,10 +10,13 @@
       <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrrf&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=0d1117"/>
 <div/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rodrrf&bg_color=242226&color=00bfff&line=000bff&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodriigof45/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ferreira-188a7326b/)
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+ 
 
 
 
